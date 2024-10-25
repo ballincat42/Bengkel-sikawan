@@ -160,6 +160,7 @@ button {
     background-color: #ff4e50;
     margin: auto;
     transition-duration: 150ms;
+    cursor: pointer;
 }
 button:hover {
     opacity: 0.7;
